@@ -1,0 +1,56 @@
+<h1>Нам очень важно знать, что Вам интересно</h1>
+<div class="group">      
+<select id="selectvalue">
+<option>Выберите пол</option>
+
+<option>Мужской</option>
+
+<option>Женский</option>
+
+</select>
+    </div>
+    <div class="group">      
+     <select id="selectvalue">
+<option>Ваше телосложение </option>
+
+<option>Худощавое</option>
+
+<option>Среднее</option>
+
+<option>Полное</option>
+
+</select>
+    </div>
+     <div class="group">      
+      <select id="selectvalue">
+<option>Ваши интересы</option>
+
+<option>Я турист</option>
+
+<option>Как я сюда попал?</option>
+
+</select>
+    </div>
+<div class="group">      
+      <select id="selectvalue">
+<option>Откуда вы?</option>
+
+<option>Оттуда-то</option>
+
+<option>Оттуда-то 2.0</option>
+
+</select>
+    </div>
+    <div class="group">      
+      <select id="selectvalue">
+<option>Ваш опыт в туризме</option>
+
+<option>Новичок</option>
+
+<option>Любитель</option>
+
+<option>Опытный</option>
+
+</select>
+    </div>
+    <a href="https://mezdu.com/weekend">Завершить</a>
